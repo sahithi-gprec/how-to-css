@@ -1,0 +1,39 @@
+.card{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid gray;
+    width: 500px;
+    padding: 30px 30px;
+    margin: 30px auto;
+    border-radius: 14px;
+}
+.card p{
+    font-size: 1.5em;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card h1{
+    font-size: 2em;
+}
+.card img{
+    display: inline-block;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 45px;
+
+}
+.card hr{
+    height: 2px;
+    color: gray;
+    fill: gray;
+}
+.btn{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    border: none;
+    color: rgb(16, 118, 227);
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+}
+  
